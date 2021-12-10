@@ -20,12 +20,12 @@ body{
 .input{
   margin-top: 3%;
   margin-bottom: 3%;
-  font-size: 24px;
+  font-size: 72px;
 }
 
 .result{
   margin-top: 3%;
   margin-bottom: 3%;
-  font-size: 24px;
   text-align: center;
+  font-size: 72px;
 }
